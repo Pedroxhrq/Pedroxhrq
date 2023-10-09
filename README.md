@@ -2,7 +2,9 @@
 
 # Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pedroxhrq&theme=catppuccin-mocha)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&card)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pedroxhrq&theme=catppuccin-mocha)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&card)
 
 ![](https://komarev.com/ghpvc/?username=Pedroxhrq&color=lightgrey)
 
