@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=149414&width=435&lines=Hello+world!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=CDD6F4&width=435&lines=Hello+world!)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pedroxhrq&theme=catppuccin-mocha)](https://git.io/streak-stats)
 
