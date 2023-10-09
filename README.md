@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=149414&width=435&lines=Hello+world!)](https://git.io/typing-svg)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pedroxhrq&theme=dark)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
