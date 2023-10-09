@@ -1,6 +1,6 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pedroxhrq&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pedroxhrq&theme=dark)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=Pedroxhrq&color=lightgrey)
 
